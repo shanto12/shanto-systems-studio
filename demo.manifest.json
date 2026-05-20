@@ -1,0 +1,22 @@
+{
+  "slug": "shanto-systems-studio",
+  "name": "Shanto Systems Studio",
+  "type": "motion-website",
+  "status": "production-verified",
+  "createdAt": "2026-05-20T16:00:00-05:00",
+  "localTimezone": "America/Chicago",
+  "summary": "Premium paired day/night motion site for Shanto's agentic AI, security automation, and proof-driven delivery work.",
+  "stack": ["React", "Vite", "TypeScript", "CSS motion", "lucide-react", "Netlify Functions"],
+  "netlify": {
+    "siteId": "94df3053-8d3b-4954-ba5f-09b7a213e2da",
+    "productionUrl": "https://shanto-systems-studio.netlify.app",
+    "deployId": "6a0e2db2cadce60085b01830",
+    "buildId": "6a0e2db2cadce60085b0182e",
+    "healthPath": "/api/health"
+  },
+  "dataPolicy": "Synthetic/static only; no user data collected and no browser-side model API calls.",
+  "sourceReference": {
+    "xPost": "https://x.com/viktoroddy/status/2057128809930104864",
+    "methodSummary": "Paired dark/light visual states, AI-generated hero media, transition toggle, local animated background, then section-by-section motion refinement."
+  }
+}
