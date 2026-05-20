@@ -15,6 +15,7 @@
     "healthPath": "/api/health"
   },
   "dataPolicy": "Synthetic/static only; no user data collected and no browser-side model API calls.",
+  "repositoryUrl": "https://github.com/shanto12/shanto-systems-studio",
   "sourceReference": {
     "xPost": "https://x.com/viktoroddy/status/2057128809930104864",
     "methodSummary": "Paired dark/light visual states, AI-generated hero media, transition toggle, local animated background, then section-by-section motion refinement."

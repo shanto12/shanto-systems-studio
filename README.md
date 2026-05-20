@@ -2,6 +2,9 @@
 
 Premium motion website built from the tutorial pattern in the referenced X post: paired dark/light visual states, a tactile transition toggle, locally hosted animated hero media, and section-by-section motion refinement.
 
+- Production: https://shanto-systems-studio.netlify.app
+- Repository: https://github.com/shanto12/shanto-systems-studio
+
 ## Run
 
 ```bash

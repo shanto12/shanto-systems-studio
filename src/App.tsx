@@ -864,7 +864,7 @@ function Footer() {
   return (
     <footer className="site-footer">
       <span>Shanto Systems Studio</span>
-      <a href="https://github.com/shanto12" rel="noreferrer">
+      <a href="https://github.com/shanto12/shanto-systems-studio" rel="noreferrer">
         <Github size={17} />
         GitHub
       </a>
