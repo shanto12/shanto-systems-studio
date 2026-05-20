@@ -10,8 +10,8 @@
   "netlify": {
     "siteId": "94df3053-8d3b-4954-ba5f-09b7a213e2da",
     "productionUrl": "https://shanto-systems-studio.netlify.app",
-    "deployId": "6a0e2db2cadce60085b01830",
-    "buildId": "6a0e2db2cadce60085b0182e",
+    "deployId": "6a0e2fef7c310b187e3a8c37",
+    "buildId": "6a0e2fee7c310b187e3a8c35",
     "healthPath": "/api/health"
   },
   "dataPolicy": "Synthetic/static only; no user data collected and no browser-side model API calls.",

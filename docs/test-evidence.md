@@ -1,12 +1,12 @@
 # Test Evidence
 
-Last local verification: May 20, 2026 4:54 PM CT.
-Last live verification: May 20, 2026 5:01 PM CT.
+Last local verification: May 20, 2026 5:04 PM CT.
+Last live verification: May 20, 2026 5:06 PM CT.
 
 Production URL: https://shanto-systems-studio.netlify.app
 Netlify site ID: `94df3053-8d3b-4954-ba5f-09b7a213e2da`
-Production deploy ID: `6a0e2db2cadce60085b01830`
-Production build ID: `6a0e2db2cadce60085b0182e`
+Production deploy ID: `6a0e2fef7c310b187e3a8c37`
+Production build ID: `6a0e2fee7c310b187e3a8c35`
 
 ## Evidence Matrix
 
@@ -36,7 +36,7 @@ Production build ID: `6a0e2db2cadce60085b0182e`
 
 - Netlify deploy state: ready.
 - Deploy context: production.
-- Deploy time: 25 seconds.
+- Deploy time: 21 seconds.
 - Available functions: `health`.
 - `curl /`: HTTP 200.
 - `curl /api/health`: `status: ok`, `mode: static-motion-demo`, `provider: none`.
